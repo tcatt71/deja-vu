@@ -23,4 +23,4 @@ Refactor your guessing game to be playable until a correct answer, without using
 BONUS:
 Integers? Boring. Allow for decimals. Let’s say the limit is the one-hundredth decimal place.
 BONUS:
-It’s not just a number. The user is guessing an rgb value (0-255). If you’re feeling adventurous, refactor your code to change the game. Be creative, there are no additional requirements. 
+It’s not just a number. The user is guessing an rgb value (0-255). If you’re feeling adventurous, refactor your code to change the game. Be creative, there are no additional requirements.
